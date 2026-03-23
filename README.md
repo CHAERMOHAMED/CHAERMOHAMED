@@ -39,6 +39,8 @@
 Today, I am focused on learning Python, core computer science concepts, and the fundamentals of artificial intelligence. I am passionate about understanding how technology works at a deeper level and using it to solve real-world problems.
 
 My goal is to study at a top university and work at leading global tech companies, where I can grow, innovate, and contribute to impactful projects. I am constantly improving my skills, learning every day, and pushing myself to reach a higher level.
+-  Reach me at: **mohamedchaer08@gmail.com**
+
 
 
 
