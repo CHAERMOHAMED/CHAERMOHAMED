@@ -92,7 +92,7 @@ My goal is to study at a top university and work at leading global tech companie
 <table><tr>
 
 <!-- Frontend -->
-<td valign="top" width="33%">
+<td valign="top" width="47%">
 
 ### Frontend
 
@@ -118,7 +118,7 @@ My goal is to study at a top university and work at leading global tech companie
 </td>
 
 <!-- Backend -->
-<td valign="top" width="33%">
+<td valign="top" width="47%">
 
 ### Backend
 
@@ -132,18 +132,6 @@ My goal is to study at a top university and work at leading global tech companie
 
 </td>
 
-<!-- DevOps -->
-<td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
 
 </td>
 </tr></table>
