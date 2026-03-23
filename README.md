@@ -15,7 +15,7 @@
 <img src="banner.png" width="100%">
 
 <!-- Intro -->
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate programming from SPAIN sp</h3>
 
 <!-- Typing Animation -->
 <p align="center">
