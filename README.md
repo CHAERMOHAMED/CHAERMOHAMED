@@ -1,5 +1,5 @@
 
-  ![freecompress-Coding The Matrix GIF](https://github.com/user-attachments/assets/781990a9-bc61-47d4-a394-8264b8fe1de7)
+ <img src="https://github.com/tuusuario/turepo/blob/main/animation.gif" width="600"/>
 <!-- Greet Line Comes Here -->
 <p align="center">
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Happy+to+See+You+Here+😀;Feel+Free+to+Look+Around+✌;Reach+Me+Out+If+You+Need+Me+🎨🙌;Have+a+Great+Day+🌞"></a>
