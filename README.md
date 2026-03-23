@@ -92,7 +92,7 @@ My goal is to study at a top university and work at leading global tech companie
 <table><tr>
 
 <!-- Frontend -->
-<td valign="top" width="50%">
+<td valign="top" width="300">
 
 ### Frontend
 
@@ -118,7 +118,7 @@ My goal is to study at a top university and work at leading global tech companie
 </td>
 
 <!-- Backend -->
-<td valign="top" width="50%">
+<td valign="top" width="300">
 
 ### Backend
 
