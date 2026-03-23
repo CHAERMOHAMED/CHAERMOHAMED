@@ -41,6 +41,7 @@ Today, I am focused on learning Python, core computer science concepts, and the 
 My goal is to study at a top university and work at leading global tech companies, where I can grow, innovate, and contribute to impactful projects. I am constantly improving my skills, learning every day, and pushing myself to reach a higher level.
 -  Reach me at: **mohamedchaer08@gmail.com**
 -  my portfolio: https://chaermohamed.github.io/portfolio/portfolio/
+-  my linkedin: linkedin.com/in/mohamed-chaer-3855aa3b9
 
 
 
