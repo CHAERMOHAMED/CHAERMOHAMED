@@ -89,6 +89,8 @@ My goal is to study at a top university and work at leading global tech companie
 
 # My Skills Set:
 
+<table><tr>
+
 <!-- Frontend -->
 <td valign="top" width="33%">
 
@@ -145,4 +147,3 @@ My goal is to study at a top university and work at leading global tech companie
 
 </td>
 </tr></table>
-
