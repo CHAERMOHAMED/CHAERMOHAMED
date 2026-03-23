@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="gif.GIF" width="800"/>
+  <img src="GIF.gif" width="800"/>
 </p>
 <!-- Greet Line Comes Here -->
 <p align="center">
