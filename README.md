@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/turepo/main/coding.gif" alt="Coding The Matrix GIF" width="800"/>
+  <img src="gif.GIF" width="800"/>
 </p>
 <!-- Greet Line Comes Here -->
 <p align="center">
