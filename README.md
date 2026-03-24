@@ -58,7 +58,7 @@ My goal is to study at a top university and work at leading global tech companie
 
 <!-- Vector Tool Gif -->
 
-<img src="c2.gif" width="800" height="500"/>
+<img src="c1.gif" width="800" height="500"/>
 <!-- Vector Tool Gif Ends -->
 
 
