@@ -122,7 +122,7 @@ My goal is to study at a top university and work at leading global tech companie
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 
 
-  <img src="c2.gif" width="800" height="250"/>
+  
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
    
 </div>
@@ -131,4 +131,4 @@ My goal is to study at a top university and work at leading global tech companie
 
 
 </td>
-</tr></table>
+</tr></table><img src="c2.gif" width="800" height="250"/>
