@@ -57,8 +57,8 @@ My goal is to study at a top university and work at leading global tech companie
 <h1 align="left">🛠 Language and Tools</h1>
 
 <!-- Vector Tool Gif -->
-<p align='center'>
-<img src="<img src="c1.gif width="90%" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+<img src="c2.gif" width="800" height="500"/>
 <!-- Vector Tool Gif Ends -->
 
 
