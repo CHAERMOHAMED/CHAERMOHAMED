@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="c1.gif" width="90%" />
+  
 </p>
 
 <!-- Hero Banner -->
@@ -58,7 +58,7 @@ My goal is to study at a top university and work at leading global tech companie
 
 <!-- Vector Tool Gif -->
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="<img src="c1.gif width="90%" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <!-- Vector Tool Gif Ends -->
 
 
@@ -120,6 +120,9 @@ My goal is to study at a top university and work at leading global tech companie
 
 <div align="center">    
   <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+
+
+  <img src="c2.gif" width="800" height="250"/>
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
    
 </div>
